@@ -1,0 +1,540 @@
+Keon Coleman
+0, WR, Offense, 6-4, 215, 21, 0, Florida State, Buffalo Bills, Florida, 6'3 - 6'4, AFC East
+
+Curtis Samuel
+1, WR, Offense, 5-11, 195, 27, 8, Ohio State, Buffalo Bills, Ohio, 5'10 - 6', AFC East
+
+Tyler Bass
+2, K, Special Teams, 5-10, 183, 27, 5, Georgia Southern, Buffalo Bills, Georgia, 5'9 - 5'11, AFC East
+
+Damar Hamlin
+3, S, Defensive Back, 6-0, 200, 26, 4, Pittsburgh Buffalo Bills, Pittsburg, 5'11 - 6'1, AFC East
+
+James Cook
+4, RB, Offense, 5-11, 190, 24, 3, Georgia, Buffalo Bills, Georgia, 5'10 - 6', AFC East
+
+Kaiir Elam
+5, CB, Defense, 6-1, 191, 23, 3, Florida, Buffalo Bills, Florida, 6' - 6'2, AFC East
+
+Shane Buechele
+6, QB, Offense, 6-0, 210, 26, 3, SMU, Buffalo Bills, Texas, 5'11 - 6'1, AFC East
+
+Taron Johnson
+7, CB, Defense, 5-11, 192, 27, 7, Weber State, Buffalo Bills, Utah, 5'10 - 6', AFC East
+
+Sam Martin
+8, P, Special Teams, 6-1, 211, 34, 12, Appalachian State, Buffalo Bills, North Carolina, 6' - 6'2, AFC East
+
+Taylor 0app
+9, S, Defensive Back, 6-0, 208, 26, 6, Washington, Buffalo Bills, Washington, 5'11 - 6'1, AFC East
+
+Khalil Shakir
+10, WR, Offense, 6-0, 190, 24, 3, Boise State, Buffalo Bills, Idaho, 5'11 - 6'1, AFC East
+
+Mitchell Trubisky
+11, QB, Offense, 6-3, 222, 29, 8, North Carolina, Buffalo Bills, North Carolina, 6'2 - 6'4, AFC East
+
+Mack Hollins
+13, WR, Offense, 6-4, 221, 30, 8, North Carolina, Buffalo Bills, North Carolina, 6'3 - 6'4, AFC East
+
+Chase Claypool
+14, WR, Offense, 6-4, 238, 26, 5, Notre Dame, Buffalo Bills, Indiana, 6'3 - 6'5, AFC East
+
+Xavier Johnson
+16, WR, Offense, 6-2, 210, 25, 0, Ohio State, Buffalo Bills, Ohio, 6'1 - 6'3, AFC East
+
+Josh Allen
+17, QB, Offense, 6-6, 237, 28, 7, Wyoming, Buffalo Bills, Wyoming, 6'5 - 6'7, AFC East
+
+Justin Shorter
+18, WR, Offense, 6-5, 223, 24, 2, Florida, Buffalo Bills, Florida, 6'4 - 6'6, AFC East
+
+KJ Hamler
+19, WR, Offense, 5-10, 178, 25, 4, Penn State, Buffalo Bills, Pennsylvania, 5'9 - 5'11, AFC East
+
+Frank Gore, Jr.
+20, RB, Offense, 5-9, 195, 22, 0, Southern Mississippi, Buffalo Bills, Mississippi, 5'8 - 5'10, AFC East
+
+Mike Edwards
+21, S, Defensive Back, 5-11, 206, 28, 6, Kentucky, Buffalo Bills, Kentucky, 5'10 - 6'0, AFC East
+
+Ray Davis
+22, RB, Offense, 5-9, 221, 24, 0, Kentucky, Buffalo Bills, Kentucky, 5'8 - 5'10, AFC East
+
+Cole Bishop
+24, S, Defensive Back, 6-3, 207, 21, 0, Utah, Buffalo Bills, Utah, 6'2 - 6'4, AFC East
+
+Daequan Hardy
+25, CB, Defense, 5-10, 178, 23, 0, Penn State, Buffalo Bills, Pennsylvania, 5'9 - 5'11, AFC East
+
+Ty Johnson
+26, RB, Offense, 5-11, 210, 26, 6, Maryland, Buffalo Bills, Maryland, 5'10 - 6'0, AFC East
+
+Dee Delaney
+29, DB, Defense, 6-0, 201, 29, 4, Miami, Buffalo Bills, Florida, 5'11 - 6'1, AFC East
+
+Jack Browning
+30, P, Special Teams, 6-0, 191, 22, 0, San Diego State, Buffalo Bills, California, 5'11 - 6'1, AFC East
+
+Rasul Douglas
+31, CB, Defense, 6-3, 209, 29, 8, West Virginia, Buffalo Bills, West Virginia, 6'2 - 6'4, AFC East
+
+Kyron Brown
+32, CB, Defense, 6-2, 195, 28, 3, Akron, Buffalo Bills, Ohio, 6'1 - 6'3, AFC East
+
+Te'Cory Couch
+33, DB, Defense, 5-11, 176, 24, 0, Miami, Buffalo Bills, Florida, 5'10 - 6'0, AFC East
+
+Kendall Williamson
+36, DB, Defense, 6-1, 204, 23, 1, Stanford, Buffalo Bills, California, 6'0 - 6'2, AFC East
+
+Darrynton Evans
+37, RB, Offense, 5-11, 204, 26, 5, Appalachian State, Buffalo Bills, North Carolina, 5'10 - 6'0, AFC East
+
+Keni-H Lovely
+38, CB, Defense, 5-11, 177, 24, 0, Western Michigan, Buffalo Bills, Michigan, 5'10 - 6'0, AFC East
+
+Cam Lewis
+39, DB, Defense, 5-10, 184, 27, 5, Buffalo, Buffalo Bills, New York, Special Teams, 5'9 - 5'11, AFC East
+
+Von Miller
+40, LB, Defense, 6-4, 251, 35, 14, Texas A&M, Buffalo Bills, Texas, 6'3 - 6'5, AFC East
+
+Reggie Gilliam
+41, FB, Offense, 6-1, 245, 26, 5, Toledo, Buffalo Bills, Ohio, 6'0 - 6'2, AFC East
+
+Dorian Williams
+42, LB, Defense, 6-3, 231, 23, 2, Tulane, Buffalo Bills, Louisiana, 6'2 - 6'4, AFC East
+
+Terrel Bernard
+43, LB, Defense, 6-2, 225, 25, 3, Baylor, Buffalo Bills, Texas, 6'1 - 6'3, AFC East
+
+Joe Andreessen
+44, LB, Defense, 6-2, 233, 24, 0, Buffalo, Buffalo Bills, New York, Special Teams, 6'1 - 6'3, AFC East
+
+Deion Jones
+45, MLB, Defense, 6-2, 223, 29, 9, LSU, Buffalo Bills, Louisiana, 6'1 - 6'3, AFC East
+
+Ja'Marcus Ingram
+46, CB, Defense, 6-3, 191, 26, 1, Buffalo, Buffalo Bills, New York, Special Teams, 6'2 - 6'4, AFC East
+
+Christian Benford
+47, CB, Defense, 6-2, 206, 23, 3, Villanova, Buffalo Bills, Pennsylvania, 6'1 - 6'3, AFC East
+
+Edefuan Ulofoshio
+48, LB, Defense, 6-2, 240, 24, 0, Washington, Buffalo Bills, Washington, 6'1 - 6'3, AFC East
+
+Greg Rousseau
+50, DE, Defense, 6-7, 267, 24, 4, Miami, Buffalo Bills, Florida, 6'6 - 6'8, AFC East
+
+Eli Ankou
+51, DT, Defense, 6-4, 326, 30, 6, UCLA, Buffalo Bills, California, 6'3 - 6'5, AFC East
+
+Nicholas Morrow
+52, LB, Defense, 6-1, 217, 28, 7, Greenville, Buffalo Bills, South Carolina, 6'0 - 6'2, AFC East
+
+Branson Deen
+53, DT, Defense, 6-3, 281, 24, 0, Miami, Buffalo Bills, Florida, 6'2 - 6'4, AFC East
+
+Baylon Spector
+54, LB, Defense, 6-1, 234, 25, 3, Clemson, Buffalo Bills, South Carolina, 6'0 - 6'2, AFC East
+
+David Ugwoegbu
+55, DL, Defense, 6-5, 251, 23, 0, Houston, Buffalo Bills, Texas, 6'4 - 6'6, AFC East
+
+Javon Solomon
+56, EDGE, Defense, 6-2, 248, 23, 0, Troy, Buffalo Bills, Alabama, 6'1 - 6'3, AFC East
+
+A.J. Epenesa
+57, DE, Defense, 6-7, 261, 25, 5, Iowa, Buffalo Bills, Iowa, 6'6 - 6'8, AFC East
+
+Matt Milano
+58, LB, Defense, 6-1, 224, 29, 8, Boston College, Buffalo Bills, Massachusetts, 6'0 - 6'2, AFC East
+
+Kingsley Jonathan
+59, DE, Defense, 6-5, 261, 26, 3, Syracuse, Buffalo Bills, New York, Special Teams, 6'4 - 6'6, AFC East
+
+Keaton Bills
+60, G, Offense 6-5, 317, 26, 0, Utah, Buffalo Bills, Utah, 6'4 - 6'6, AFC East
+
+Gunner Britton
+61, G, Offense 6-7, 313, 24, 0, Auburn, Buffalo Bills, Alabama, 6'6 - 6'8, AFC East
+
+Gable Steveson
+61, DT, Defense, 6-2, 266, 24, 0, Minnesota, Buffalo Bills, Minnesota, 6'1 - 6'3, AFC East
+
+Sedrick Van Pran-Granger
+62, C/G, Offense, 6-5, 311, 22, 0, Georgia, Buffalo Bills, Georgia, 6'4 - 6'6, AFC East
+
+Kevin Jarvis
+63, OL, Offense, 6-7, 326, 25, 1, Michigan State, Buffalo Bills, Michigan, 6'6 - 6'8, AFC East
+
+O'Cyrus Torrence
+64, G, Offense 6-6, 348, 24, 2, Florida, Buffalo Bills, Florida, 6'5 - 6'7, AFC East
+
+Mike Edwards
+65, OL, Offense, 6-6, 364, 25, 0, Campbell University, Buffalo Bills, North Carolina, 6'5 - 6'7, AFC East
+
+Connor McGovern
+66, G, Offense 6-6, 319, 26, 6, Penn State, Buffalo Bills, Pennsylvania, 6'5 - 6'7, AFC East
+
+Travis Clayton
+67, OT, Offense, 6-8, 302, 23, 0, England - International Player Pathway, Buffalo Bills, International, 6'7 - 6'9, AFC East
+
+Tylan Grable
+68, OT, Offense, 6-6, 310, 24, 0, UCF, Buffalo Bills, Florida, 6'5 - 6'7, AFC East
+
+Reid Ferguson
+69, LS, Special Teams, 6-3, 236, 30, 8, Louisiana State, Buffalo Bills, Louisiana, 6'2 - 6'4, AFC East
+
+Alec Anderson
+70, T, Offense, 6-6, 306, 24, 2, UCLA, Buffalo Bills, California, 6'5 - 6'7, AFC East
+
+La'el Collins
+71, OL, Offense, 6-5, 316, 30, 9, LSU, Buffalo Bills, Louisiana, 6'4 - 6'6, AFC East
+
+Dion Dawkins
+73, T, Offense, 6-6, 321, 30, 8, Temple, Buffalo Bills, Pennsylvania, 6'5 - 6'7, AFC East
+
+Ryan Van Demark
+74, T, Offense, 6-7, 308, 26, 2, Connecticut, Buffalo Bills, Connecticut, 6'6 - 6'8, AFC East
+
+Richard Gouraige
+75, OT, Offense, 6-6, 307, 25, 1, Florida, Buffalo Bills, Florida, 6'5 - 6'7, AFC East
+
+David Edwards
+76, G, Offense 6-7, 309, 27, 6, Wisconsin, Buffalo Bills, Wisconsin, 6'6 - 6'8, AFC East
+
+Will Clapp
+77, G/C, Offense, 6-6, 312, 28, 7, LSU, Buffalo Bills, Louisiana, 6'5 - 6'7, AFC East
+
+Spencer Brown
+79, T, Offense, 6-9, 312, 26, 4, Northern Iowa, Buffalo Bills, Iowa, 6'8 - 6'10,AFC East
+
+Tyrell Shavers
+80, WR, Offense, 6-5, 212, 24, 1, San Diego State, Buffalo Bills, California, 6'4 - 6'6, AFC East
+
+Marquez Valdes-Scantling
+81, WR, Offense, 6-5, 207, 29, 7, University of South Florida, Buffalo Bills, Florida, 6'4 - 6'6, AFC East
+
+Lawrence Keys
+82, WR, Offense, 6-0, 171, 24, 0, Tulane, Buffalo Bills, Louisiana, 5'11 - 6'1, AFC East
+
+Tre' McKitty
+83, TE, Offense, 6-5, 247, 25, 4, Georgia, Buffalo Bills, Georgia, 6'4 - 6'6, AFC East
+
+Zach Davidson
+84, TE, Offense, 6-8, 252, 26, 2, Central Missouri, Buffalo Bills, Missouri, 6'7 - 6'9, AFC East
+
+Quintin Morris
+85, TE, Offense, 6-3, 253, 25, 3, Bowling Green, Buffalo Bills, Ohio, 6'2 - 6'4, AFC East
+
+Dalton Kincaid
+86, TE, Offense, 6-5, 241, 24, 2, Utah, Buffalo Bills, Utah, 6'4 - 6'6, AFC East
+
+Andy Isabella
+87, WR, Offense, 5-10, 189, 27, 5, UMass Amherst, Buffalo Bills, Massachusetts, 5'9 - 5'11, AFC East
+
+Dawson Knox
+88, TE, Offense, 6-5, 255, 27, 6, Mississippi, Buffalo Bills, Mississippi, 6'4 - 6'6, AFC East
+
+Bryan Thompson
+89, WR, Offense, 6-2, 196, 25, 1, Arizona State, Buffalo Bills, Arizona, 6'1 - 6'3, AFC East
+
+DeWayne Carter
+90, DT, Defense, 6-4, 306, 23, 0, Duke, Buffalo Bills, North Carolina, 6'3 - 6'5, AFC East
+
+Ed Oliver
+91, DT, Defense, 6-2, 288, 26, 6, Houston, Buffalo Bills, Texas, 6'1 - 6'3, AFC East
+
+DaQuan Jones
+92, DT, Defense, 6-5, 321, 32, 11, Penn State, Buffalo Bills, Pennsylvania, 6'4 - 6'6, AFC East
+
+DeShawn Williams
+93, DT, Defense, 6-2, 296, 31, 5, Clemson, Buffalo Bills, South Carolina, 6'1 - 6'3, AFC East
+
+Dawuane Smoot
+94, DE, Defense, 6-4, 265, 29, 8, Illinois, Buffalo Bills, Illinois, 6'3 - 6'5, AFC East
+
+Kameron Cline
+96, DE, Defense, 6-5, 284, 26, 1, South Dakota, Buffalo Bills, South Dakota, 6'4 - 6'6, AFC East
+
+Rondell Bothroyd
+97, DE, Defense, 6-4, 274, 24, 0, Oklahoma, Buffalo Bills, Oklahoma, 6'3 - 6'5, AFC East
+
+Austin Johnson
+98, DT, Defense, 6-5, 315, 30, 8, Penn State, Buffalo Bills, Pennsylvania, 6'4 - 6'6, AFC East
+
+Casey Toohill
+99, DE, Defense, 6-6, 255, 27, 5, Stanford, Buffalo Bills, California, 6'5 - 6'7, AFC East
+
+Braxton Berrios
+0, WR, Offense, 5-10, 186, 28, 7, Miami, Miami Dolphins, Florida, 5'9 - 5'11, AFC East
+
+Tua Tagovailoa
+1, QB, Offense, 6-2, 228, 26, 5, Alabama, Miami Dolphins, Alabama, 6'1 - 6'3, AFC East
+
+Odell Beckham Jr.
+3, WR, Offense, 6-0, 201, 31, 10, LSU, Miami Dolphins, Louisiana, 5'11 - 6'1, AFC East
+
+Kader Kohou
+4, CB, Defense, 5-11, 194, 25, 3, Texas A&M-Commerce, Miami Dolphins, Texas, 5-10 - 6-0, AFC East
+
+Jalen Ramsey
+5, CB, Defense, 6-2, 209, 29, 9, Florida State, Miami Dolphins, Florida, 6'1 - 6'3, AFC East
+
+Anthony Walker Jr.
+6, LB, Defense, 6-2, 236, 28, 8, Northwestern, Miami Dolphins, Illinois, 6'1 - 6'3, AFC East
+
+Jason Sanders
+7, K, Special Teams, 6-0, 196, 28, 7, New Mexico, Miami Dolphins, New Mexico, 5'11 - 6'1, AFC East
+
+Jevon Holland
+8, S, Defensive Back, 6-2, 211, 24, 4, Oregon, Miami Dolphins, Oregon, 6'1 - 6'3, AFC East
+
+Jonnu Smith
+9, TE, Offense, 6-4, 249, 28, 8, Florida International, Miami Dolphins, Florida, 6'3 - 6'5, AFC East
+
+Tyreek Hill
+10, WR, Offense, 5-11, 192, 30, 9, West Alabama, Miami Dolphins, Alabama, 5'10 - 6'0, AFC East
+
+David Long Jr.
+11, LB, Defense, 6-0, 228, 27, 6, West Virginia, Miami Dolphins, West Virginia, 5'11 - 6'1, AFC East
+
+Mike White
+14, QB, Offense, 6-6, 217, 29, 6, Western Kentucky, Miami Dolphins, Kentucky, 6'5 - 6'7, AFC East
+
+Gavin Hardison
+16, QB, Offense, 6-3, 207, 24, 0, Texas-El Paso, Miami Dolphins, Texas, 6'2 - 6'4, AFC East
+
+Jaylen Waddle
+17, WR, Offense, 5-11, 186, 25, 4, Alabama, Miami Dolphins, Alabama, 5'10 - 6'0, AFC East
+
+Erik Ezukanma
+18, WR, Offense, 6-3, 207, 24, 2, Texas Tech, Miami Dolphins, Texas, 6'2 - 6'4, AFC East
+
+Skylar Thompson
+19, QB, Offense, 6-3, 220, 27, 3, Kansas State, Miami Dolphins, Kansas, 6'2 - 6'4, AFC East
+
+Jordyn Brooks
+20, LB, Defense, 6-1, 241, 26, 5, Texas Tech, Miami Dolphins, Texas, 6'0 - 6'2, AFC East
+
+Jordan Poyer
+21, S, Defensive Back, 6-1, 192, 33, 12, Oregon State, Miami Dolphins, Oregon, 6'0 - 6'2, AFC East
+
+Elijah Campbell
+22, DB, Defense, 6-0, 201, 28, 5, Northern Iowa, Miami Dolphins, Iowa, 5'11 - 6'1, AFC East
+
+Jeff Wilson Jr.
+23, RB, Offense, 6-1, 211, 28, 7, North Texas, Miami Dolphins, Texas, 6'0 - 6'2, AFC East
+
+Cam Smith
+24, CB, Defense, 6-2, 181, 23, 2, South Carolina, Miami Dolphins, South Carolina, 6'1 - 6'3, AFC East
+
+Jaylen Wright
+25, RB, Offense, 5-11, 211, 21, 0, Tennessee, Miami Dolphins, Tennessee, 5'10 - 6'0, AFC East
+
+Ethan Bonner
+27, CB, Defense, 6-2, 187, 24, 1, Stanford, Miami Dolphins, California, 6'1 - 6'3, AFC East
+
+De'Von Achane
+28, RB, Offense, 5-10, 189, 22, 2, Texas A&M, Miami Dolphins, Texas, 5'9 - 5'11, AFC East
+
+Kendall Fuller
+29, CB, Defense, 6-0, 199, 29, 9, Virginia Tech, Miami Dolphins, Virginia, 5'11 - 6'1, AFC East
+
+Alec Ingold
+30, FB, Offense, 6-2, 233, 28, 6, Wisconsin, Miami Dolphins, Wisconsin, 6'1 - 6'3, AFC East
+
+Raheem Mostert
+31, RB, Offense, 5-11, 206, 32, 10, Purdue, Miami Dolphins, Indiana, 5'10 - 6'0, AFC East
+
+Patrick McMorris
+32, S, Defensive Back, 6-1, 207, 22, 0, California, Miami Dolphins, California, 6'0 - 6'2, AFC East
+
+Siran Neal
+33, CB, Defense, 6-1, 207, 29, 7, Jacksonville State, Miami Dolphins, Alabama, 6'0 - 6'2, AFC East
+
+Jordan Colbert
+34, S, Defensive Back, 6-3, 215, 24, 0, Rhode Island, Miami Dolphins, Rhode Island, 6'2 - 6'4, AFC East
+
+Chris Brooks
+35, RB, Offense, 6-2, 224, 24, 2, BYU, Miami Dolphins, Utah, 6'1" - 6'3", AFC East
+
+Storm Duck
+36, CB, Defense, 6-1, 196, 23, 0, Louisville, Miami Dolphins, Kentucky, 6'0" - 6'2", AFC East
+
+Isaiah Johnson
+37, CB, Defense, 6-4, 206, 24, 0, Syracuse, Miami Dolphins, New York, Special Teams, 6'3" - 6'5", AFC East
+
+Nik Needham
+40, CB, Defense, 6-2, 197, 27, 6, UTEP, Miami Dolphins, Texas, 6'1" - 6'3", AFC East
+
+Channing Tindall
+41, LB, Defense, 6-3, 237, 24, 3, Georgia, Miami Dolphins, Georgia, 6'2" - 6'4", AFC East
+
+Je'Quan Burton
+42, WR, Offense, 5-10, 178, 24, 0, Florida Atlantic, Miami Dolphins, Florida, 5'9" - 5'11", AFC East
+
+Jason Maitre
+43, CB, Defense, 5-11, 189, 24, 0, Wisconsin, Miami Dolphins, Wisconsin, 5'10" - 6'0", AFC East
+
+Chop Robinson
+44, LB, Defense, 6-4, 255, 21, 0, Penn State, Miami Dolphins, Pennsylvania, 6'3" - 6'5", AFC East
+
+Duke Riley
+45, LB, Defense, 6-2, 228, 29, 8, LSU, Miami Dolphins, Louisiana, 6'1" - 6'3", AFC East
+
+Marcus Maye
+46, S, Defensive Back, 6-1, 208, 31, 8, Florida, Miami Dolphins, Florida, 6'0" - 6'2", AFC East
+
+Cam Brown
+47, LB, Defense, 6-6, 236, 26, 5, Penn State, Miami Dolphins, Pennsylvania, 6'5" - 6'7", AFC East
+
+Blake Ferguson
+48, LS, Special Teams, 6-4, 241, 27, 5, LSU, Miami Dolphins, Louisiana, 6'3" - 6'5", AFC East
+
+Hayden Couci
+49, TE, Offense, 6-6, 248, 23, 0, Wisconsin, Miami Dolphins, Wisconsin, 6'5" - 6'7", AFC East
+
+Mohamed Kamara
+50, LB, Defense, 6-2, 249, 24, 0, Colorado State, Miami Dolphins, Colorado, 6'1" - 6'3", AFC East
+
+Patrick Paul
+52, T, Offense, 6-8, 332, 23, 0, Houston, Miami Dolphins, Texas, 6'7" - 6'9", AFC East
+
+Aaron Brewer
+55, OL, Offense, 6-2, 296, 26, 5, Texas State, Miami Dolphins, Texas, 6'1" - 6'3", AFC East
+
+Quinton Bell
+56, LB, Defense, 6-5, 252, 28, 3, Prairie View A&M, Miami Dolphins, Texas, 6'4" - 6'6", AFC East
+
+Ezekiel Vandenburgh
+57, LB, Defense, 6-5, 233, 25, 2, Illinois State, Miami Dolphins, Illinois, 6'4" - 6'6", AFC East
+
+Shaquil Barrett
+58, LB, Defense, 6-3, 251, 31, 10, Colorado State, Miami Dolphins, Colorado, 6'2" - 6'4", AFC East
+
+Grayson Murphy
+59, LB, Defense, 6-3, 250, 23, 0, UCLA, Miami Dolphins, California, 6'2" - 6'4", AFC East
+
+Andrew Meyer
+60, OL, Offense, 6-4, 296, 24, 0, Texas-El Paso, Miami Dolphins, Texas, 6'3" - 6'5", AFC East
+
+Matthew Jones
+62, OL, Offense, 6-4, 317, 25, 0, Ohio State, Miami Dolphins, Ohio, 6'3" - 6'5", AFC East
+
+Chasen Hines
+63, OL, Offense, 6-4, 321, 24, 2, LSU, Miami Dolphins, Louisiana, 6'3" - 6'5", AFC East
+
+Robert Jones
+65, OL, Offense, 6-5, 326, 25, 4, Middle Tennessee State, Miami Dolphins, Tennessee, 6'4" - 6'6", AFC East
+
+Lester Cotton
+66, OL, Offense, 6-5, 331, 28, 5, Alabama, Miami Dolphins, Alabama, 6'4" - 6'6", AFC East
+
+Mario Kendricks
+68, DT, Defense, 6-0, 294, 23, 0, Virginia Tech, Miami Dolphins, Virginia, 5'11" - 6'1", AFC East
+
+Ireland Brown
+69, OL, Offense, 6-3, 301, 23, 0, Rutgers, Miami Dolphins, New Jersey, 6'2" - 6'4", AFC East
+
+Kendall Lamm
+70, T, Offense, 6-5, 309, 32, 9, Appalachian State, Miami Dolphins, North Carolina, 6'4" - 6'6", AFC East
+
+Kion Smith
+71, T, Offense, 6-5, 307, 25, 2, Fayetteville State University, Miami Dolphins, North Carolina, 6'4" - 6'6", AFC East
+
+Terron Armstead
+72, T, Offense, 6-5, 306, 32, 12, University of Arkansas at Pine Bluff, Miami Dolphins, Arkansas, 6'4" - 6'6", AFC East
+
+Austin Jackson
+73, OL, Offense, 6-5, 321, 24, 5, USC, Miami Dolphins, California, 6'4" - 6'6", AFC East
+
+Liam Eichenberg
+74, OL, Offense, 6-6, 307, 26, 4, Notre Dame, Miami Dolphins, Indiana, 6'5" - 6'7", AFC East
+
+Jack Driscoll
+75, OL, Offense, 6-5, 313, 27, 5, Auburn, Miami Dolphins, Alabama, 6'4" - 6'6", AFC East
+
+Ryan Hayes
+76, T, Offense, 6-6, 306, 24, 1, Michigan, Miami Dolphins, Michigan, 6'5" - 6'7", AFC East
+
+Leonard Payne
+78, DT, Defense, 6-3, 302, 23, 0, Colorado, Miami Dolphins, Colorado, 6'2" - 6'4", AFC East
+
+Bayron Matos
+79, OT, Offense, 6-7, 314, 23, 0, South Florida, Miami Dolphins, Florida, 6'6" - 6'8", AFC East
+
+Tanner Conner
+80, TE, Offense, 6-3, 233, 26, 2, Idaho State, Miami Dolphins, Idaho, 6'2" - 6'4", AFC East
+
+Durham Smythe
+81, TE, Offense, 6-6, 247, 28, 7, Notre Dame, Miami Dolphins, Indiana, 6'5" - 6'7", AFC East
+
+Malik Washington
+83, WR, Offense, 5-8, 192, 23, 0, Virginia, Miami Dolphins, Virginia, 5'7" - 5'9", AFC East
+
+Anthony Schwartz
+84, WR, Offense, 6-0, 187, 23, 3, Auburn, Miami Dolphins, Alabama, 5'11" - 6'1", AFC East
+
+River Cracraft
+85, WR, Offense, 6-0, 199, 29, 6, Washington State, Miami Dolphins, Washington, 5'11" - 6'1", AFC East
+
+Braylon Sanders
+86, WR, Offense, 6-1, 191, 25, 1, Mississippi, Miami Dolphins, Mississippi, 6'0" - 6'2", AFC East
+
+Jody Fortson Jr.
+88, TE, Offense, 6-4, 227, 28, 4, Valdosta State, Miami Dolphins, Georgia, 6'3" - 6'5", AFC East
+
+Julian Hill
+89, TE, Offense, 6-4, 252, 24, 2, Campbell University, Miami Dolphins, North Carolina, 6'3" - 6'5", AFC East
+
+Neville Gallimore
+90, DT, Defense, 6-2, 303, 27, 5, Oklahoma, Miami Dolphins, Oklahoma, 6'1" - 6'3", AFC East
+
+Da'Shawn Hand
+91, DT, Defense, 6-3, 298, 28, 7, Alabama, Miami Dolphins, Alabama, 6'2" - 6'4", AFC East
+
+Zach Sieler
+92, DT, Defense, 6-6, 301, 28, 7, Ferris State, Miami Dolphins, Michigan, 6'5" - 6'7", AFC East
+
+Calais Campbell
+93, DT, Defense, 6-8, 283, 37, 17, Miami, Miami Dolphins, Florida, 6'7" - 6'9", AFC East
+
+Teair Tart
+94, DT, Defense, 6-2, 305, 27, 5, Florida International, Miami Dolphins, Florida, 6'1" - 6'3", AFC East
+
+Benito Jones
+95, DT, Defense, 6-1, 336, 26, 4, Mississippi, Miami Dolphins, Mississippi, 6'0" - 6'2", AFC East
+
+Brandon Pili
+96, DT, Defense, 6-3, 320, 25, 2, USC, Miami Dolphins, California, 6'2" - 6'4", AFC East
+
+Isaiah Mack
+97, DT, Defense, 6-1, 300, 28, 3, Chattanooga, Miami Dolphins, Tennessee, 6'0" - 6'2", AFC East
+
+Jonathan Harris
+98, DT, Defense, 6-5, 296, 27, 4, Lindenwood, Miami Dolphins, Missouri, 6'4" - 6'6", AFC East
+
+Salvon Ahmed
+26, RB, Offense, 5-11, 198, 25, 5, Washington, Miami Dolphins, Washington, 5'10" - 6'0", AFC East
+
+Mark Perry
+38, S, Defensive Back, 6-0, 214, 23, 0, TCU, Miami Dolphins, Texas, 5'11" - 6'1", AFC East
+
+Bradley Chubb
+2, LB, Defense, 6-4, 269, 28, 7, N.C. State, Miami Dolphins, North Carolina, 6'3" - 6'5", AFC East
+
+Cameron Goode
+53, LB, Defense, 6-3, 246, 26, 2, California, Miami Dolphins, California, 6'2" - 6'4", AFC East
+
+Jaelan Phillips
+15, LB, Defense, 6-5, 264, 25, 4, Miami, Miami Dolphins, Florida, 6'4" - 6'6", AFC East
+
+Tahj Washington
+82, WR, Offense, 5-10, 175, 23, 0, USC, Miami Dolphins, California, 5'9" - 5'11", AFC East
+
+Isaiah Wynn
+77, OL, Offense, 6-2, 311, 28, 7, Georgia, Miami Dolphins, Georgia, 6'1" - 6'3", AFC East
+
